@@ -1,4 +1,4 @@
-<h1 align= "center">![360-ezgif com-video-to-gif-converter](360-ezgif.com-video-to-gif-converter.gif)</h1>
+<h1>![360-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/55ebd892-c377-47d8-847f-0806d73d7a5e)</h1>
 
 
 # Business Insights 360 – AtliQ Hardware Power BI Project
