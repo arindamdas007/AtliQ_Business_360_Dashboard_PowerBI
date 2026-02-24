@@ -1,3 +1,5 @@
+https://www.canva.com/design/DAHCNjze7kg/08aANp6VO2WXkCoy76SGMA/edit?ui=e30
+
 # Business Insights 360 – AtliQ Hardware Power BI Project
 
 ## 📌 Project Overview
